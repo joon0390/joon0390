@@ -1,4 +1,3 @@
-### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi,%20I'm%20Junhee&fontSize=25&textBg=true&animation=twinkling&descAlign=50)
 <!--
 **joon0390/joon0390** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
