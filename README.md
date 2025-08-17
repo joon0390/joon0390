@@ -20,6 +20,7 @@
 
 <h2 align="left"> Awards </h2> 
 
+
 ###
 
 <h2 align="left">I use</h2>
@@ -54,3 +55,12 @@
 
 ###
 
+<h2 align="left"> Find me on </h2>
+<p align="left">
+  <a href="https://github.com/joon0390" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/junhee-kim-08695a352" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:kim8881472@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://joon0390.github.io" target="_blank"><img src="https://img.shields.io/badge/Blog-FC4F08?style=for-the-badge&logo=velog&logoColor=white"/></a>
+</p>
+
+###
