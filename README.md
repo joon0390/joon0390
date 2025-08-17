@@ -10,10 +10,10 @@
 
 <h2 align="left"> Projects </h2>
 
-1. [Contrastive Learning 기반 주행패턴 분석](https://joon0390.github.io/project_1/)
-2. 스마트폰 가속도 센서를 이용한 도로 노면 탐지 시스템
-3. 산업용 회전 장비 이상 진동 탐지 시스템
-4. 실시간 운전자 졸음 탐지 시스템
+1. [Driving Pattern Analysis based on Contrastive Learning](https://joon0390.github.io/project_1/)
+2. Road Surface Detection System using Smartphone Accelerometer Sensors
+3. Abnormal Vibration Detection System for Industrial Rotating Equipment
+4. Real-time Driver Drowsiness Detection System
 
 
 ### 
@@ -57,12 +57,11 @@
 
 <h2 align="left"> Education </h2>
 
-- 인하대학교 통계학과 & 소프트웨어융합공학
-    - 2019.02 ~ 2025.02
+- **Inha University** | *Feb 2019 - Feb 2025*
+  - B.S. in Statistics & Samsung Convergence Software Course
     
-- 인하대학교 통계데이터사이언스학과(통계학 전공)
-    - 2025.02 ~ 재학중
-
+- **Inha University** | *Feb 2025 - Present*
+  - M.S. in Statistical Data Science (Major in Statistics)
 ###
 
 <h2 align="left"> Find me on </h2>
