@@ -55,6 +55,16 @@
 
 ###
 
+<h2 align="left"> Education </h2>
+
+- 인하대학교 통계학과 & 소프트웨어융합공학
+    - 2019.02 ~ 2025.02
+    
+- 인하대학교 통계데이터사이언스학과(통계학 전공)
+    - 2025.02 ~ 재학중
+
+###
+
 <h2 align="left"> Find me on </h2>
 <p align="left">
   <a href="https://github.com/joon0390" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
