@@ -10,7 +10,7 @@
 
 <h2 align="left"> Projects </h2>
 
-1. Contrastive Learning 기반 주행패턴 분석
+1. [Contrastive Learning 기반 주행패턴 분석](https://joon0390.github.io/project_1/)
 2. 스마트폰 가속도 센서를 이용한 도로 노면 탐지 시스템
 3. 산업용 회전 장비 이상 진동 탐지 시스템
 4. 실시간 운전자 졸음 탐지 시스템
