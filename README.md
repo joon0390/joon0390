@@ -21,7 +21,7 @@
     -   *Paper: [Anomaly Detection in Driving Patterns Using Contrastive Learning](http://journal.kits.or.kr/journal/article.php?code=88989)*
 -   **Grand Prize** | *2025 Inha AI Challenge*
     -   *Task: Image Colorization based on Language Information*
--   **Finalist** | *7th LG Aimers Offline AI Hackathon (2025)*
+-   **Finalist** | *[7th LG Aimers Offline AI Hackathon (2025)](https://heekim.notion.site/LG-Aimers-253703566e45808f9c4af3d24de7d062)*
     -   *Task: Predicting Pregnancy Success Rate for Infertility Patients*
 -   **Bronze Prize** | *Fall 2023 Vertically Integrated Projects Presentation*
     -   *Project: AI for Road Surface Condition Identification*
