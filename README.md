@@ -34,7 +34,7 @@
 -   **Poster Presentation** | *The 12th IASC-ARS Conference (2024), Taipei, Taiwan*
     - Poster : [Predicting Movement Paths in Search and Rescue Operations Using RL](https://heekim.notion.site/The-12th-IASC-ARS-Conference-2024-Poster-session-253703566e4580668da6dfa0a306432e?pvs=74)
 -   **Oral Presentation** | *2024 ITS Korea Spring Conference, Undergraduate Session*
-    - Driver Drowsiness Detection System
+    - Driver Drowsiness Detection System - Improving SwinTransformer Using Salient object detection
 ###
 <h2 align="left">Tech Stack</h2>
 
