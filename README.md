@@ -19,7 +19,7 @@
 
 -   **Best Paper Award (Co-author)** | *2023 ITS Korea Fall Conference*
     -   *Paper: [Anomaly Detection in Driving Patterns Using Contrastive Learning](http://journal.kits.or.kr/journal/article.php?code=88989)*
--   **Grand Prize** | *2025 Inha AI Challenge*
+-   **Grand Prize** | *[2025 Inha AI Challenge](https://heekim.notion.site/2025-Team-Posterior-253703566e4580308d53de551844661d?source=copy_link）*
     -   *Task: Image Colorization based on Language Information*
 -   **Finalist** | *[7th LG Aimers Offline AI Hackathon (2025)](https://heekim.notion.site/LG-Aimers-253703566e45808f9c4af3d24de7d062)*
     -   *Task: Predicting Pregnancy Success Rate for Infertility Patients*
