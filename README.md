@@ -23,7 +23,7 @@
     -   *Task: Image Colorization based on Language Information*
 -   **Finalist** | *7th LG Aimers Offline AI Hackathon (2025)*
     -   *Task: Predicting Pregnancy Success Rate for Infertility Patients*
--   **Bronze Prize** | *Fall 2023 Convergence Project Presentation*
+-   **Bronze Prize** | *Fall 2023 Vertically Integrated Projects Presentation*
     -   *Project: AI for Road Surface Condition Identification*
 
 ###
