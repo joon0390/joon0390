@@ -11,7 +11,6 @@
 1.  [Driving Pattern Analysis based on Contrastive Learning](https://joon0390.github.io/project_1/)
 2.  [Road Surface Detection System using Smartphone Accelerometer Sensors](https://github.com/joon0390/Edge-Computing)
 3.  Abnormal Vibration Detection System for Industrial Rotating Equipment
-4.  Real-time Driver Drowsiness Detection System
 
 ###
 
@@ -35,7 +34,7 @@
 -   **Poster Presentation** | *The 12th IASC-ARS Conference (2024), Taipei, Taiwan*
     - Poster : [Predicting Movement Paths in Search and Rescue Operations Using RL](https://heekim.notion.site/The-12th-IASC-ARS-Conference-2024-Poster-session-253703566e4580668da6dfa0a306432e?pvs=74)
 -   **Oral Presentation** | *2024 ITS Korea Spring Conference, Undergraduate Session*
-
+    - Driver Drowsiness Detection System
 ###
 <h2 align="left">Tech Stack</h2>
 
