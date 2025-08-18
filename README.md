@@ -6,24 +6,29 @@
 
 ###
 
+<h2 align="left">Projects</h2>
 
-
-<h2 align="left"> Projects </h2>
-
-1. [Driving Pattern Analysis based on Contrastive Learning](https://joon0390.github.io/project_1/)
-2. [Road Surface Detection System using Smartphone Accelerometer Sensors](https://github.com/joon0390/Edge-Computing)
-3. Abnormal Vibration Detection System for Industrial Rotating Equipment
-4. Real-time Driver Drowsiness Detection System
-
-
-### 
-
-<h2 align="left"> Awards </h2> 
-
+1.  [Driving Pattern Analysis based on Contrastive Learning](https://joon0390.github.io/project_1/)
+2.  [Road Surface Detection System using Smartphone Accelerometer Sensors](https://github.com/joon0390/Edge-Computing)
+3.  Abnormal Vibration Detection System for Industrial Rotating Equipment
+4.  Real-time Driver Drowsiness Detection System
 
 ###
 
-<h2 align="left">I use</h2>
+<h2 align="left">Awards</h2>
+
+-   **Best Paper Award (Co-author)** | *2023 ITS Korea Fall Conference*
+    -   *Paper: [Anomaly Detection in Driving Patterns Using Contrastive Learning](http://journal.kits.or.kr/journal/article.php?code=88989)*
+-   **Grand Prize** | *2025 Inha AI Challenge*
+    -   *Task: Image Colorization based on Language Information*
+-   **Finalist** | *7th LG Aimers Offline AI Hackathon (2025)*
+    -   *Task: Predicting Pregnancy Success Rate for Infertility Patients*
+-   **Bronze Prize** | *Fall 2023 Convergence Project Presentation*
+    -   *Project: AI for Road Surface Condition Identification*
+
+###
+
+<h2 align="left">Tech Stack</h2>
 
 ###
 
@@ -49,21 +54,19 @@
 
 ###
 
-<h2 align="left"> Education </h2>
+<h2 align="left">Education</h2>
 
-- **Inha University** | *Feb 2019 - Feb 2025*
-  - B.S. in Statistics & Samsung Convergence Software Course
-    
-- **Inha University** | *Feb 2025 - Present*
-  - M.S. in Statistical Data Science (Major in Statistics)
+-   **Inha University** | *Feb 2019 - Feb 2025*
+    -   B.S. in Statistics & Samsung Convergence Software Course
+-   **Inha University** | *Feb 2025 - Present*
+    -   M.S. in Statistical Data Science (Major in Statistics)
+
 ###
 
-<h2 align="left"> Find me on </h2>
+<h2 align="left">Connect with me</h2>
 <p align="left">
-  <a href="https://github.com/joon0390" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/junhee-kim-08695a352" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:kim8881472@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://joon0390.github.io" target="_blank"><img src="https://img.shields.io/badge/Blog-FC4F08?style=for-the-badge&logo=velog&logoColor=white"/></a>
+  <a href="https://github.com/joon0390" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/junhee-kim-08695a352" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:kim8881472@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://joon0390.github.io" target="_blank"><img src="https://img.shields.io/badge/Blog-FC4F08?style=for-the-badge&logo=velog&logoColor=white"/></a>
 </p>
-
-###
