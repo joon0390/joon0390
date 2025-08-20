@@ -9,8 +9,8 @@
 <h2 align="left">Projects</h2>
 
 1.  [Driving Pattern Analysis based on Contrastive Learning](https://joon0390.github.io/project_1/)
-2.  [Road Surface Detection System using Smartphone Accelerometer Sensors](https://github.com/joon0390/Edge-Computing)
-3.  Abnormal Vibration Detection System for Industrial Rotating Equipment
+2.  [Abnormal Vibration Detection System for Industrial Rotating Equipment](https://github.com/joon0390/Edge-Computing)
+3.   Road Surface Detection System using Smartphone Accelerometer Sensors
 
 ###
 
