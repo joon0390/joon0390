@@ -38,7 +38,7 @@
 
 - **Anomaly Detection in Driving Patterns Using Contrastive Learning**
   - *Journal of the Korea Institute of Intelligent Transport Systems, 2023*
-  - 🥇 **Best Paper Award (Co-author)**
+  - 🥇 **Best Paper Award (Co-author), *2023 ITS Korea Fall Conference***
   - [Paper](http://journal.kits.or.kr/journal/viewPDF.php?key=zPGluqiY/ZA=) | [Code](https://github.com/LilMae/CarVibration) | [Blog](https://joon0390.github.io/project_1/)
 
 ###
