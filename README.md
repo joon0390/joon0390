@@ -32,26 +32,29 @@
 
 <h2 align="left"> 📜 Publications</h2>
 
-- **Predicting Flatfish Growth in Aquaculture Using Bayesian Deep Kernel Machines**
-  - *Applied Sciences, 2025* (Accepted for publication)
-  - [Paper](최종-발행-링크) | [Code](코드-링크)
+1.  **Predicting Flatfish Growth in Aquaculture Using Bayesian Deep Kernel Machines**
+    - *Applied Sciences, 2025* (Accepted for publication)
+    - [Paper](최종-발행-링크) | [Code](코드-링크)
 
-- **Anomaly Detection in Driving Patterns Using Contrastive Learning**
-  - *Journal of the Korea Institute of Intelligent Transport Systems, 2023*
-  - 🥇 **Best Paper Award (Co-author), *2023 ITS Korea Fall Conference***
-  - [Paper](http://journal.kits.or.kr/journal/viewPDF.php?key=zPGluqiY/ZA=) | [Code](https://github.com/LilMae/CarVibration) | [Blog](https://joon0390.github.io/project_1/)
+2. **Anomaly Detection in Driving Patterns Using Contrastive Learning**
+    - *Journal of the Korea Institute of Intelligent Transport Systems, 2023*
+    - 🥇 **Best Paper Award (Co-author), *2023 ITS Korea Fall Conference***
+    - [Paper](http://journal.kits.or.kr/journal/viewPDF.php?key=zPGluqiY/ZA=) | [Code](https://github.com/LilMae/CarVibration) | [Blog](https://joon0390.github.io/project_1/)
 
 ###
 
 
 <h2 align="left"> 📰 Conferences & Presentations</h2>
 
--   **Poster Presentation** | *BayesComp 2025, Singapore*
+1. **Poster Presentation** | *BayesComp 2025, Singapore*
     - Poster: [Bayesian Kernel Ridge on GAT Embeddings for Molecular Prediction](files/BayesComp2025_BayesKernelGAT.pdf)
--   **Poster Presentation** | *The 12th IASC-ARS Conference (2024), Taipei, Taiwan*
+      
+2. **Poster Presentation** | *The 12th IASC-ARS Conference (2024), Taipei, Taiwan*
     - Poster : [Predicting Movement Paths in Search and Rescue Operations Using RL](files/IASC-ARS_DQN.pdf)
--   **Oral Presentation** | *2024 ITS Korea Spring Conference, Undergraduate Session*
+      
+3. **Oral Presentation** | *2024 ITS Korea Spring Conference, Undergraduate Session*
     - Driver Drowsiness Detection System - Improving SwinTransformer Using Salient object detection
+
 ###
 <h2 align="left"> 🛠️ Tech Stack</h2>
 
