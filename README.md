@@ -28,6 +28,22 @@
 
 ###
 
+###
+
+<h2 align="left"> 📜 Publications</h2>
+
+- **Predicting Flatfish Growth in Aquaculture Using Bayesian Deep Kernel Machines**
+  - *Applied Sciences, 2025* (Accepted for publication)
+  - [Paper](최종-발행-링크) | [Code](코드-링크)
+
+- **Anomaly Detection in Driving Patterns Using Contrastive Learning**
+  - *Journal of the Korea Institute of Intelligent Transport Systems, 2023*
+  - 🥇 **Best Paper Award (Co-author)**
+  - [Paper](http://journal.kits.or.kr/journal/viewPDF.php?key=zPGluqiY/ZA=) | [Code](https://github.com/LilMae/CarVibration) | [Blog](https://joon0390.github.io/project_1/)
+
+###
+
+
 <h2 align="left"> 📰 Conferences & Presentations</h2>
 
 -   **Poster Presentation** | *BayesComp 2025, Singapore*
