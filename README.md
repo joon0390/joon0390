@@ -31,9 +31,9 @@
 <h2 align="left"> 📰 Conferences & Presentations</h2>
 
 -   **Poster Presentation** | *BayesComp 2025, Singapore*
-    - Poster: [Bayesian Kernel Ridge on GAT Embeddings for Molecular Prediction](https://heekim.notion.site/BayesComp2025-253703566e4580c7b8cce24438b4084b)
+    - Poster: [Bayesian Kernel Ridge on GAT Embeddings for Molecular Prediction](files/BayesComp2025_BayesKernelGAT.pdf)
 -   **Poster Presentation** | *The 12th IASC-ARS Conference (2024), Taipei, Taiwan*
-    - Poster : [Predicting Movement Paths in Search and Rescue Operations Using RL](https://heekim.notion.site/The-12th-IASC-ARS-Conference-2024-Poster-session-253703566e4580668da6dfa0a306432e?pvs=74)
+    - Poster : [Predicting Movement Paths in Search and Rescue Operations Using RL](files/IASC-ARS_DQN.pdf)
 -   **Oral Presentation** | *2024 ITS Korea Spring Conference, Undergraduate Session*
     - Driver Drowsiness Detection System - Improving SwinTransformer Using Salient object detection
 ###
