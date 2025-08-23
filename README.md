@@ -37,7 +37,7 @@
 -   **Oral Presentation** | *2024 ITS Korea Spring Conference, Undergraduate Session*
     - Driver Drowsiness Detection System - Improving SwinTransformer Using Salient object detection
 ###
-<h2 align="left">Tech Stack</h2>
+<h2 align="left"> 🛠️ Tech Stack</h2>
 
 ###
 
@@ -54,7 +54,7 @@
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 ###
 
-<h2 align="left">Education</h2>
+<h2 align="left">🏫 Education</h2>
 
 -   **Inha University** | *Feb 2019 - Feb 2025*
     -   B.S. in Statistics & Samsung Convergence Software Course
@@ -63,7 +63,7 @@
 
 ###
 
-<h2 align="left">Connect with me</h2>
+<h2 align="left"> 📞 Connect with me</h2>
 <p align="left">
   <a href="https://github.com/joon0390" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/junhee-kim-08695a352" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
