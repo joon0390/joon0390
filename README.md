@@ -13,7 +13,7 @@
     - 🥇 **Best Paper Award (Co-author)** | *2023 ITS Korea Fall Conference*
 
 2.  **Image Colorization based on Language Information**
-    - [Blog](https://heekim.notion.site/2025-Team-Posterior-253703566e4580308d53de551844661d?pvs=73) | [PPT](2025_INHA_POSTERIOR.pdf)
+    - [Blog](https://heekim.notion.site/2025-Team-Posterior-253703566e4580308d53de551844661d?pvs=73) | [PPT](files/2025_INHA_POSTERIOR.pdf)
     - 🥇 **Grand Prize** | *2025 Inha AI Challenge*
 
 3.  **Predicting Pregnancy Success Rate for Infertility Patients**
