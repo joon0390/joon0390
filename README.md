@@ -6,34 +6,29 @@
 
 ###
 
-<h2 align="left">Projects</h2>
+<h2 align ='left'> 🏆 Projects & Awards</h2>
 
-1.  Anomaly Detection in Driving Patterns Using Contrastive Learning
-       - [Code](https://github.com/LilMae/CarVibration)
-       - [Blog](https://joon0390.github.io/project_1/)
-       - [Paper](http://journal.kits.or.kr/journal/viewPDF.php?key=zPGluqiY/ZA=)
-2.  Abnormal Vibration Detection System for Industrial Rotating Equipment
-       - [Code](https://github.com/joon0390/Edge-Computing)
-3.   Road Surface Detection System using Smartphone Accelerometer Sensors
+1.  **Anomaly Detection in Driving Patterns Using Contrastive Learning**
+    - [Code](https://github.com/LilMae/CarVibration) | [Blog](https://joon0390.github.io/project_1/) | [Paper](http://journal.kits.or.kr/journal/viewPDF.php?key=zPGluqiY/ZA=)
+    - 🥇 **Best Paper Award (Co-author)** | *2023 ITS Korea Fall Conference*
 
-###
+2.  **Image Colorization based on Language Information**
+    - [Blog](https://heekim.notion.site/2025-Team-Posterior-253703566e4580308d53de551844661d?pvs=73) | [PPT]()
+    - 🥇 **Grand Prize** | *2025 Inha AI Challenge*
 
-<h2 align="left">Awards</h2>
+3.  **Predicting Pregnancy Success Rate for Infertility Patients**
+    - [PPT](https://heekim.notion.site/LG-Aimers-253703566e45808f9c4af3d24de7d062)
+    - 🏅 **Finalist** | *7th LG Aimers Offline AI Hackathon (2025)*
 
--   **Best Paper Award (Co-author)** | *2023 ITS Korea Fall Conference*
-    -   *Paper: [Anomaly Detection in Driving Patterns Using Contrastive Learning](http://journal.kits.or.kr/journal/viewPDF.php?key=zPGluqiY/ZA=)*
--   **Grand Prize** | *2025 Inha AI Challenge*
-    -   *Task: Image Colorization based on Language Information*
-    -   [Blog](https://heekim.notion.site/2025-Team-Posterior-253703566e4580308d53de551844661d?pvs=73) / [PPT]()
--   **Finalist** | *7th LG Aimers Offline AI Hackathon (2025)*
-    -   *Task: Predicting Pregnancy Success Rate for Infertility Patients*
-    -   [PPT](https://heekim.notion.site/LG-Aimers-253703566e45808f9c4af3d24de7d062)
--   **Bronze Prize** | *Fall 2023 Vertically Integrated Projects Presentation*
-    -   *Project: AI for Road Surface Condition Identification*
+4.  **Road Surface Detection System using Smartphone Accelerometer Sensors**
+    - 🥉 **Bronze Prize** | *Fall 2023 Vertically Integrated Projects Presentation*
+
+5.  **Abnormal Vibration Detection System for Industrial Rotating Equipment**
+    - [Code](https://github.com/joon0390/Edge-Computing)
 
 ###
 
-<h2 align="left">Conferences & Presentations</h2>
+<h2 align="left"> 📰 Conferences & Presentations</h2>
 
 -   **Poster Presentation** | *BayesComp 2025, Singapore*
     - Poster: [Bayesian Kernel Ridge on GAT Embeddings for Molecular Prediction](https://heekim.notion.site/BayesComp2025-253703566e4580c7b8cce24438b4084b)
