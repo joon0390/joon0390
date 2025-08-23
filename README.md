@@ -9,16 +9,16 @@
 <h2 align ='left'> 🏆 Projects & Awards</h2>
 
 1.  **Anomaly Detection in Driving Patterns Using Contrastive Learning**
-    - [Code](https://github.com/LilMae/CarVibration) | [Blog](https://joon0390.github.io/project_1/) | [Paper](http://journal.kits.or.kr/journal/viewPDF.php?key=zPGluqiY/ZA=)
     - 🥇 **Best Paper Award (Co-author)** | *2023 ITS Korea Fall Conference*
+    - [Code](https://github.com/LilMae/CarVibration) | [Blog](https://joon0390.github.io/project_1/) | [Paper](http://journal.kits.or.kr/journal/viewPDF.php?key=zPGluqiY/ZA=)
 
 2.  **Image Colorization based on Language Information**
-    - [Blog](https://heekim.notion.site/2025-Team-Posterior-253703566e4580308d53de551844661d?pvs=73) | [PPT](files/2025_INHA_POSTERIOR.pdf)
     - 🥇 **Grand Prize** | *2025 Inha AI Challenge*
-
+    - [Blog](https://heekim.notion.site/2025-Team-Posterior-253703566e4580308d53de551844661d?pvs=73) | [PPT](files/2025_INHA_POSTERIOR.pdf)
+    
 3.  **Predicting Pregnancy Success Rate for Infertility Patients**
-    - [PPT](https://heekim.notion.site/LG-Aimers-253703566e45808f9c4af3d24de7d062)
     - 🏅 **Finalist** | *7th LG Aimers Offline AI Hackathon (2025)*
+    - [PPT](https://heekim.notion.site/LG-Aimers-253703566e45808f9c4af3d24de7d062)
 
 4.  **Road Surface Detection System using Smartphone Accelerometer Sensors**
     - 🥉 **Bronze Prize** | *Fall 2023 Vertically Integrated Projects Presentation*
