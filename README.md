@@ -18,7 +18,7 @@
     
 3.  **Predicting Pregnancy Success Rate for Infertility Patients**
     - 🏅 **Finalist** | *7th LG Aimers Offline AI Hackathon (2025)*
-    - [PPT](https://heekim.notion.site/LG-Aimers-253703566e45808f9c4af3d24de7d062)
+    - [PPT](files/LGaimers.pdf)
 
 4.  **Road Surface Detection System using Smartphone Accelerometer Sensors**
     - 🥉 **Bronze Prize** | *Fall 2023 Vertically Integrated Projects Presentation*
