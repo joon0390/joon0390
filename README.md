@@ -10,7 +10,7 @@
 
 1.  **Anomaly Detection in Driving Patterns Using Contrastive Learning**
     - 🥇 **Best Paper Award (Co-author)** | *2023 ITS Korea Fall Conference*
-    - [Code](https://github.com/LilMae/CarVibration) | [Blog](https://joon0390.github.io/_projects/contrastive-driving-pattern.md) | [Paper](http://journal.kits.or.kr/journal/viewPDF.php?key=zPGluqiY/ZA=)
+    - [Code](https://github.com/LilMae/CarVibration) | [Blog](https://joon0390.github.io/project_1/) | [Paper](http://journal.kits.or.kr/journal/viewPDF.php?key=zPGluqiY/ZA=)
 
 2.  **Image Colorization based on Language Information**
     - 🥇 **Grand Prize** | *2025 Inha AI Challenge*
