@@ -29,7 +29,7 @@
 ## 📜 Publications
 
 1.  **Predicting Flatfish Growth in Aquaculture Using Bayesian Deep Kernel Machines**
-    - *Applied Sciences, 2025* (Accepted for publication)
+    - *Applied Sciences, 2025*
     - [Paper](https://www.mdpi.com/2076-3417/15/17/9487)
 
 2.  **Anomaly Detection in Driving Patterns Using Contrastive Learning**
