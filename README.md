@@ -15,7 +15,7 @@
     - [Blog](https://heekim.notion.site/2025-Team-Posterior-253703566e4580308d53de551844661d?pvs=73) | [PPT](files/2025_INHA_POSTERIOR.pdf)
     
 3.  **Predicting Pregnancy Success Rate for Infertility Patients**
-    - 🏅 **Finalist** | *7th LG Aimers Offline AI Hackathon (2025)*
+    - 🏅 **Finalist 7th** | *LG Aimers Offline AI Hackathon (2025)*
     - [PPT](files/LGaimers.pdf)
 
 4.  **Road Surface Detection System using Smartphone Accelerometer Sensors**
