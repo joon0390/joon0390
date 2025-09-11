@@ -2,56 +2,6 @@
 
 <p align="left">My name is <b>Junhee Kim</b>, an aspiring Data Scientist focusing on<br>Bayesian ML, deep learning, and graphical models.</p>
 
-
-
-## 🏆 Projects & Awards
-
-1.  **Anomaly Detection in Driving Patterns Using Contrastive Learning**
-    - 🥇 **Best Paper Award (Co-author)** | *2023 ITS Korea Fall Conference*
-    - [Code](https://github.com/joon0390/CarVibration) | [Blog](https://joon0390.github.io/project_1/) | [Paper](http://journal.kits.or.kr/journal/viewPDF.php?key=zPGluqiY/ZA=)
-
-2.  **Image Colorization based on Language Information**
-    - 🥇 **Grand Prize** | *2025 Inha AI Challenge*
-    - [Blog](https://heekim.notion.site/2025-Team-Posterior-253703566e4580308d53de551844661d?pvs=73) | [PPT](files/2025_INHA_POSTERIOR.pdf)
-    
-3.  **Predicting Pregnancy Success Rate for Infertility Patients**
-    - 🏅 **Finalist 7th** | *LG Aimers Offline AI Hackathon (2025)*
-    - [PPT](files/LGaimers.pdf)
-
-4.  **Road Surface Detection System using Smartphone Accelerometer Sensors**
-    - 🥉 **Bronze Prize** | *Fall 2023 Vertically Integrated Projects Presentation*
-
-5.  **Abnormal Vibration Detection System for Industrial Rotating Equipment**
-    - [Code](https://github.com/joon0390/Edge-Computing)
-
-<br>
-
-## 📜 Publications
-
-1.  **Predicting Flatfish Growth in Aquaculture Using Bayesian Deep Kernel Machines**
-    - *Applied Sciences, 2025*
-    - [Paper](files/applsci-15-09487.pdf)
-
-2.  **Anomaly Detection in Driving Patterns Using Contrastive Learning**
-    - *Journal of the Korea Institute of Intelligent Transport Systems, 2023*
-    - 🥇 **Best Paper Award (Co-author)** | *2023 ITS Korea Fall Conference*
-    - [Paper](http://journal.kits.or.kr/journal/viewPDF.php?key=zPGluqiY/ZA=) | [Code](https://github.com/LilMae/CarVibration) | [Blog](https://joon0390.github.io/project_1/)
-
-<br>
-
-## 📰 Conferences & Presentations
-
-1.  **Poster Presentation** | *BayesComp 2025, Singapore*
-    - Poster: [Bayesian Kernel Ridge on GAT Embeddings for Molecular Prediction](files/BayesComp2025_BayesKernelGAT.pdf)
-    
-2.  **Poster Presentation** | *The 12th IASC-ARS Conference (2024), Taipei, Taiwan*
-    - Poster: [Predicting Movement Paths in Search and Rescue Operations Using RL](files/IASC-ARS_DQN.pdf)
-    
-3.  **Oral Presentation** | *2024 ITS Korea Spring Conference, Undergraduate Session*
-    - Topic: Driver Drowsiness Detection System - Improving SwinTransformer Using Salient object detection
-
-<br>
-
 ## 🛠️ Tech Stack
 
 <p align="left">
