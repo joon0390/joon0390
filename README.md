@@ -1,6 +1,6 @@
 # 👋🏻 Hello
 
-<p align="left">My name is <b>Junhee Kim</b>, an aspiring Data Scientist focusing on<br>Bayesian ML, deep learning, and graphical models.</p>
+<p align="left">My name is <b>Junhee Kim</b>, an aspiring Data Scientist focusing on<br>Bayesian ML, deep learning, and statistics.</p>
 
 <br>
 
