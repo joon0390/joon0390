@@ -4,7 +4,7 @@
 
 <br>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
@@ -21,7 +21,7 @@
 
 <br>
 
-## 🏫 Education
+## Education
 
 -   **Inha University** | *Feb 2025 - Present*
     -   *M.S. in Statistical Data Science (Major in Statistics)*
@@ -30,7 +30,7 @@
 
 <br>
 
-## 📞 Contact
+## Contact
 
 <p align="left">
   <a href="https://www.linkedin.com/in/junhee-kim-08695a352" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
