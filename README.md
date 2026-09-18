@@ -1,36 +1,44 @@
-# Hello
-
-<p align="left">My name is <b>Junhee Kim</b>, an aspiring Data Scientist focusing on<br>Bayesian ML, deep learning, and statistics.</p>
-
-<br>
-
-## Tech Stack
+# Hi there, I'm Junhee Kim 👋
 
 <p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="SciPy"/>
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  An aspiring <b>Data Scientist</b> specializing in <b>Statistics, Bayesian Machine Learning, and Deep Learning</b>.<br>
+  Passionate about uncertainty quantification, probabilistic modeling, and scalable statistical solutions.
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+### Languages & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+</p>
+
+### Tools & Environments
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio"/>
 </p>
 
-<br>
+---
 
-## Education
+## 🎓 Education
 
--   **Inha University** | *Feb 2025 - Feb 2027(Expected)*
-    -   *M.S. in Statistical Data Science (Major in Statistics)*
--   **Inha University** | *Feb 2019 - Feb 2025*
-    -   *B.S. in Statistics & Samsung Convergence Software Course*
+- **Inha University** | *Feb 2025 – Feb 2027 (Expected)*
+  - M.S. in Statistical Data Science (Major in Statistics)
+- **Inha University** | *Feb 2019 – Feb 2025*
+  - B.S. in Statistics & Samsung Convergence Software Course
 
-<br>
+---
 
-## Contact
+## 📬 Contact & Links
 
 <p align="left">
   <a href="https://www.linkedin.com/in/junhee-kim-08695a352" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
