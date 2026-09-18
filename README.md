@@ -1,4 +1,4 @@
-# Hi there, I'm Junhee Kim 👋
+# Hi, I'm Junhee Kim 👋
 
 <p align="left">
   An aspiring <b>Data Scientist</b> specializing in <b>Statistics, Bayesian Machine Learning, and Deep Learning</b>.<br>
