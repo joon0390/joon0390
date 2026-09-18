@@ -23,7 +23,7 @@
 
 ## Education
 
--   **Inha University** | *Feb 2025 - Present*
+-   **Inha University** | *Feb 2025 - Feb 2027(Expected)*
     -   *M.S. in Statistical Data Science (Major in Statistics)*
 -   **Inha University** | *Feb 2019 - Feb 2025*
     -   *B.S. in Statistics & Samsung Convergence Software Course*
