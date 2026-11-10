@@ -7,7 +7,7 @@
 
 ---
 
-## 🎓 Education
+### Education
 
 - **Inha University** | *Feb 2025 – Feb 2027 (Expected)*
   - M.S. in Statistical Data Science (Major in Statistics)
@@ -16,7 +16,7 @@
 
 ---
 
-## 📬 Contact & Links
+### Contact & Links
 
 <p align="left">
   <a href="https://www.linkedin.com/in/junhee-kim-08695a352" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
